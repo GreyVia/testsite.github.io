@@ -1,7 +1,7 @@
 # testsite.github.io
 assets/components/msearch2/js/web/default.js
 
-
+<code>
 mse2Config = mse2Config || {};
 var mSearch2 = {
     initialized: false,
@@ -1321,3 +1321,4 @@ mSearch2.Hash = {
 };
 
 mSearch2.startParams = mSearch2.Hash.get();
+</code>
